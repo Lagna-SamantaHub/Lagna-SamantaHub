@@ -43,8 +43,8 @@ At Infosys, I was instrumental in enhancing the quality and stability of softwar
 
 ## 💻 My Projects 
 
-[![Readme Card](https://github.com/Lagna-SamantaHub/Guru99_BankingV1)](https://github.com/Lagna-SamantaHub/Guru99_BankingV1)
-[![Readme Card](https://github.com/Lagna-SamantaHub/PetStore_RestAssured_Automation_Tests)](https://github.com/Lagna-SamantaHub/PetStore_RestAssured_Automation_Tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lagna-SamantaHub&repo=Guru99_BankingV1)](https://github.com/Lagna-SamantaHub/Guru99_BankingV1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lagna-SamantaHub&repo=PetStore_RestAssured_Automation_Tests)](https://github.com/Lagna-SamantaHub/PetStore_RestAssured_Automation_Tests)
 
 
 ## 💼 Technical Skills
