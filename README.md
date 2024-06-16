@@ -33,11 +33,11 @@
 
 * At Capgemini, I spearheaded initiatives that significantly enhanced project management and testing efficiency through strategic planning and collaboration.
 
--Migrated Projects to Jira Cloud: Transitioned multiple projects from ALM to Jira Cloud, boosting visibility and collaboration. T
-<b>his migration led to a 25% increase in project efficiency and expedited issue resolution.</b>
+-  Migrated Projects to Jira Cloud: Transitioned multiple projects from ALM to Jira Cloud, boosting visibility and collaboration. 
+<b>This migration led to a 25% increase in project efficiency and expedited issue resolution.</b>
 
 * At Infosys, I was instrumental in enhancing the quality and stability of software applications through rigorous testing and effective team leadership.
-- Successfully led a team of four  <b> improving team productivity by 15% through effective task allocation and problem-solving.</b>
+-   Successfully led a team of four  <b> improving team productivity by 15% through effective task allocation and problem-solving.</b>
 
 
 
